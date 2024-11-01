@@ -2,12 +2,28 @@
   "projectName": "processing4-carbon-aug-19",
   "projectOwner": "processing",
   "files": [
-      "README.md"
-    ],
+    "README.md"
+  ],
   "imageSize": 120,
   "contributorsPerLine": 6,
   "commit": true,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "benfry",
+      "name": "Ben Fry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1623101?v=4",
+      "profile": "https://fathom.info",
+      "contributions": [
+        "code",
+        "ideas",
+        "infra",
+        "mentoring",
+        "maintenance",
+        "content",
+        "talk"
+      ]
+    }
+  ],
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
