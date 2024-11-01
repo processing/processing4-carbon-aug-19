@@ -71,6 +71,13 @@ Copyright (c) 2015-now The Processing Foundation
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="16.66%"><a href="https://fathom.info"><img src="https://avatars.githubusercontent.com/u/1623101?v=4?s=120" width="120px;" alt="Ben Fry"/><br /><sub><b>Ben Fry</b></sub></a><br /><a href="https://github.com/processing/processing4-carbon-aug-19/commits?author=benfry" title="Code">💻</a> <a href="#ideas-benfry" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-benfry" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#mentoring-benfry" title="Mentoring">🧑‍🏫</a> <a href="#maintenance-benfry" title="Maintenance">🚧</a> <a href="#content-benfry" title="Content">🖋</a> <a href="#talk-benfry" title="Talks">📢</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
