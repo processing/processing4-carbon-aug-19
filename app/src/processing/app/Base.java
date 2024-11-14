@@ -1214,6 +1214,7 @@ public class Base {
   private Editor openSketchBundle(String path) {
     File zipFile = new File(path);
     try {
+      untitledFolder.mkdirs();
       File destFolder = File.createTempFile("zip", "tmp", untitledFolder);
       if (!destFolder.delete() || !destFolder.mkdirs()) {
         // Hard to imagine why this would happen, but...
